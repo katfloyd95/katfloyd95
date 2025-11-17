@@ -1,5 +1,5 @@
 ### 👨‍💻 About Me: 
-Senior Frontend Engineer with 4+ years of successful software delivery experience. Expert in Angular, React.js, and TypeScript. My proudest achievement is building a new ticketing portal using Angular and TypeScript for Lufthansa Industry Solutions, used by 30+ public transport companies across Germany and Austria. Interested in web performance optimization, component-driven UI, micro-frontend architecture, and scalability.
+Senior Frontend Engineer with 5 years of successful software delivery experience. Expert in Angular, React.js, and TypeScript. My proudest achievement is building a new ticketing portal using Angular and TypeScript for Lufthansa Industry Solutions, used by 30+ public transport companies across Germany and Austria. Interested in web performance optimization, component-driven UI, micro-frontend architecture, and scalability.
 
 💻 Programming Languages: JavaScript, TypeScript, Python
 
