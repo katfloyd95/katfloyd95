@@ -1,9 +1,9 @@
 ### 👨‍💻 About Me: 
-Senior Frontend Engineer 5+ years of successful software delivery experience. Expert in React.js, Angular, and TypeScript. My proudest achievement is building a new ticketing portal for Lufthansa Industry Solutions, used by 30+ public transport companies across Germany and Austria. Interested in web performance optimization, component-driven UI, micro-frontend architecture, and scalability.
+Senior Frontend Engineer 5+ years of successful software delivery experience. Expert in React.js, Vue.js, Angular, and TypeScript. My proudest achievement is building a new ticketing portal for Lufthansa Industry Solutions, used by 30+ public transport companies across Germany and Austria. Interested in web performance optimization, component-driven UI, micro-frontend architecture, and scalability.
 
 💻 Programming Languages: JavaScript, TypeScript, Python
 
-🔧 Technologies & Tools: React, Angular, Redux, RxJS, Jenkins, Babel, Webpack, Jest, Cypress, React Testing Library, Styled Components, Sentry, Software Architecture, Web Performance, Scalability, REST APIs, Web Accessibility, GraphQL, AI Coding Tools (ChatGPT, GitHub Co-Pilot)
+🔧 Technologies & Tools: React, Vue, Angular, Redux, RxJS, Jenkins, Babel, Webpack, Jest, Cypress, React Testing Library, Styled Components, Sentry, Software Architecture, Web Performance, Scalability, REST APIs, Web Accessibility, GraphQL, AI Coding Tools (ChatGPT, GitHub Co-Pilot)
 
 ☁️ Cloud: AWS, S3, EC2, CI/CD, Git, GitLab, GitHub, Cloudfront, CDNs
 
